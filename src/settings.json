@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover the perfect blend of rich flavors and aromatic excellence. Crafted for the true coffee connoisseur.",
+        "title": "Awaken Your Senses with Our Artisan Coffee"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover the perfect blend of rich flavors and aromatic excellence. Crafted for the true coffee connoisseur.",
+        "title": "Awaken Your Senses with Our Artisan Coffee"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover the perfect blend of rich flavors and aromatic excellence. Crafted for the true coffee connoisseur.",
+        "title": "Awaken Your Senses with Our Artisan Coffee"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover the perfect blend of rich flavors and aromatic excellence. Crafted for the true coffee connoisseur.",
+        "title": "Awaken Your Senses with Our Artisan Coffee"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover the perfect blend of rich flavors and aromatic excellence. Crafted for the true coffee connoisseur.",
+        "title": "Awaken Your Senses with Our Artisan Coffee"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the perfect blend of rich flavors and aromatic excellence. Crafted for the true coffee connoisseur.",
+        "title": "Awaken Your Senses with Our Artisan Coffee"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover the perfect blend of rich flavors and aromatic excellence. Crafted for the true coffee connoisseur.",
+        "title": "Awaken Your Senses with Our Artisan Coffee"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover the perfect blend of rich flavors and aromatic excellence. Crafted for the true coffee connoisseur.",
+        "title": "Awaken Your Senses with Our Artisan Coffee"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover the perfect blend of rich flavors and aromatic excellence. Crafted for the true coffee connoisseur.",
+        "title": "Awaken Your Senses with Our Artisan Coffee"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Awaken Your Senses with Our Artisan Coffee",
+  "subtitle": "Discover the perfect blend of rich flavors and aromatic excellence. Crafted for the true coffee connoisseur."
+}
